@@ -4,6 +4,7 @@
   "description": "API_principale_de_la_communaut_dAston",
   "license": "UNLICENSED",
   "main": "src/index.js",
+  "type": "module",
   "scripts": {
     "test": "mocha --require @babel/register --recursive"
   },
